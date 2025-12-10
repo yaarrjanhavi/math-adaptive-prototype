@@ -1,0 +1,12 @@
+name,difficulty,op,a,b,correct,time
+jan,Easy,-,0,6,1,6.586
+jan,Easy,-,8,6,1,2.269
+jan,Medium,*,4,5,1,2.778
+jan,Hard,+,121,89,0,4.627
+jan,Medium,+,44,26,1,7.466
+jan,Hard,/,15,5,1,2.43
+jan,Hard,/,55,11,1,2.366
+jan,Hard,/,24,12,1,1.871
+jan,Hard,/,56,7,1,8.144
+jan,Hard,+,71,27,1,4.189
+jan,Hard,/,36,12,1,2.109
